@@ -43,3 +43,6 @@
 
 # Redirect all v2 paths to v3 (with full docs path)
 /docs/2.0.0/*    /docs/3.0.0/:splat
+
+# Serve legacy /docs/* URLs from the new root build output
+/docs/*    /:splat    200

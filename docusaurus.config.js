@@ -11,7 +11,7 @@ module.exports = {
   titleDelimiter: "🐰",
   tagline: "API Test Generator Tool",
   url: "https://keploy.io",
-  baseUrl: "/",
+  baseUrl: "/docs/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   trailingSlash: true,
@@ -203,9 +203,9 @@ module.exports = {
       `,
     },
     algolia: {
-      apiKey: "c4628c331b0f4997178c879978033276",
-      indexName: "keploy",
-      appId: "WZTL8PLCOD",
+      apiKey: "103d4b32eefd975e52f85184535f5810",
+      indexName: "blueb",
+      appId: "WO2VZ0LLEK",
       contextualSearch: true, // Optional, If you different version of docs etc (v1 and v2) doesn't display dup results
       // algoliaOptions: {}, // Optional, if provided by Algolia
     },
