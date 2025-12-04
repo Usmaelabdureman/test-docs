@@ -8,3 +8,9 @@
 
 ## Note: if you are looking for Redirects
 # they have been moved to /static/_redirects to make it more manageable - swyx
+[build]
+  command = "npm run build"
+  publish = "build"
+
+[build.environment]
+  NODE_VERSION = "20"
