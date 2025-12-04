@@ -10,7 +10,7 @@ module.exports = {
   title: "Keploy Documentation",
   titleDelimiter: "🐰",
   tagline: "API Test Generator Tool",
-  url: "https://keploy.io",
+  url: "https://test-docs-omega.vercel.app",
   baseUrl: "/docs/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
