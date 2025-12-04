@@ -11,7 +11,7 @@ module.exports = {
   titleDelimiter: "🐰",
   tagline: "API Test Generator Tool",
   url: "https://keploy.io",
-  baseUrl: "/docs/",
+  baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   trailingSlash: true,
